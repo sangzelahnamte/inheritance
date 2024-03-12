@@ -1,0 +1,7 @@
+F:/C++ File/C++ projects/practice/problem solving/inheritance/build-inheritance-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/inheritance.dir
+F:/C++ File/C++ projects/practice/problem solving/inheritance/build-inheritance-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+F:/C++ File/C++ projects/practice/problem solving/inheritance/build-inheritance-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+F:/C++ File/C++ projects/practice/problem solving/inheritance/build-inheritance-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+F:/C++ File/C++ projects/practice/problem solving/inheritance/build-inheritance-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+F:/C++ File/C++ projects/practice/problem solving/inheritance/build-inheritance-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+F:/C++ File/C++ projects/practice/problem solving/inheritance/build-inheritance-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
